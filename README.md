@@ -50,9 +50,3 @@ Note !!  This is a MVP (Minimal Variable Product), this program works, but it's 
 When the progress from "A" to "Genshin Impact", the "A" progress is still running.
 
 So, before running this program, please make sure your compute has a good performance. Otherwise, I am not sure your computer would crash.  
-
-
-
-
-
-
