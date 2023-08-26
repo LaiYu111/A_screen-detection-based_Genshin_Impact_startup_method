@@ -4,7 +4,7 @@
 
 - [简体中文](readme/README.zh_CN.md)
 
-- [English](README.md)
+- [English](../README.md)
   
   
 
